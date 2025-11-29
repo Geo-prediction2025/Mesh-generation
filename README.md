@@ -35,13 +35,11 @@ Open the Command Prompt (cmd). (e.g., Right-click the Start button -> select Run
 The basic command format is: tetgen [options] <input_file>
 Example: tetgen -pq1.2A D:\tetgen\example.poly
 Press Enter.
-
-<h1>6. Successful Execution</h1>
+Successful Execution
 If successful, TetGen will generate four output files (e.g., .node, .ele, .face, .edge), indicating the model was meshed successfully.
 
-<h2>7. Draw a two layered model map </h2>
- The graphical result is as follows:
-<img src="1.5.png" alt="图片描述" width="500" height="350">
+<h1>6. a two layered model example</h1>
+<img src="1.5.bmp" alt="图片描述" width="500" height="350">
 
 
 
