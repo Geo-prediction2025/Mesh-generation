@@ -5,8 +5,7 @@ If you need it, you can follow the following steps.
 <h1>Usage</h1>
 <h1>1. Download</h1>
 Download code from the Github repository: 
-https://github.com/Geo-prediction2025/Mesh-generation.git
-Install a software Codeblocks.
+https://github.com/Geo-prediction2025/Mesh-generation.git, and install a software Codeblocks.
  
 <h1>2.Create a new project:</h1>
 a)Create a new console application project and name it ‘tetgen’.
@@ -38,7 +37,7 @@ Press Enter.
 Successful Execution
 If successful, TetGen will generate four output files (e.g., .node, .ele, .face, .edge), indicating the model was meshed successfully.
 
-<h1>6. a two layered model example</h1>
+<h1>6. A two layered mesh example</h1>
 <img src="1.5.bmp" alt="图片描述" width="500" height="350">
 
 
